@@ -1,0 +1,37 @@
+[info] Running Task3
+Big integers
+Seq time: 0.05973849999999999
+Par time : 1 threads: 0.101518
+Par time : 2 threads: 7.750774
+Par time : 4 threads: 19.584106399999996
+Par time : 8 threads: 29.7325602
+Par time : 16 threads: 6.7515676
+Par time : 32 threads: 15.018533599999998
+Par time : 64 threads: 5.865930700000001
+N term of the sequence
+Seq time: 0.0040173
+Par time : 1 threads: 0.8582247999999998
+Par time : 2 threads: 2.5519893000000002
+Par time : 4 threads: 2.7666515
+Par time : 8 threads: 1.2003521000000001
+Par time : 16 threads: 1.1079082999999998
+Par time : 32 threads: 1.215807
+Par time : 64 threads: 1.1080499
+Brackets
+Seq time: 0.1173507
+Par time : 1 threads: 1.6187596
+Par time : 2 threads: 3.1654455999999995
+Par time : 4 threads: 5.6351990999999995
+Par time : 8 threads: 3.3038280999999996
+Par time : 16 threads: 2.5641355
+Par time : 32 threads: 2.679312
+Par time : 64 threads: 3.1280617000000004
+Turtle
+Seq time: 91.2973281
+Par time : 1 threads: 270.35917470000004
+Par time : 2 threads: 127.90523470000001
+Par time : 4 threads: 264.4363879
+Par time : 8 threads: 147.7942261
+Par time : 16 threads: 291.320014
+Par time : 32 threads: 154.32668899999996
+Par time : 64 threads: 430.22105709999994
