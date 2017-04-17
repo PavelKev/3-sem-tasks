@@ -1,0 +1,4 @@
+K_MEANS
+seqtime = 60.531817 ms
+partime: 121.902056 ms
+acceleration: 0.4965610834324238
